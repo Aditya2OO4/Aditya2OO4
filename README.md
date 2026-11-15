@@ -74,6 +74,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya2OO4&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&timezone=Asia%2FKolkata" alt="Contribution streak" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya2OO4&theme=tokyonight&hide_border=true&border_radius=10&timezone=Asia%2FKolkata" alt="Contribution streak" />
 </p>
 
