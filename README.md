@@ -74,9 +74,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya2OO4&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&timezone=Asia%2FKolkata" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Aditya2OO4&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&timezone=Asia%2FKolkata&v=2" alt="Contribution streak" />
 </p>
-
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7aa2f7,100:1a1b27&section=footer" alt="" />
