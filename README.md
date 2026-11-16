@@ -20,7 +20,7 @@
 
 ## About me
 
-- AI Engineer at **Encegen AI Labs**
+- AI Engineer 
 - B.E. in Computer Science (2026)
 - Based in India
 - Currently building a **real-time voice AI agent platform** and an **LLM observability + eval toolkit**
