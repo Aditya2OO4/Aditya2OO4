@@ -51,12 +51,6 @@
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/Aditya2OO4/llmops-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya2OO4&repo=llmops-toolkit&theme=tokyonight&border_radius=10" alt="llmops-toolkit" />
-  </a>
-</p>
-
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
 | **Real-time Voice AI Agent** | Retell-style phone agent with low-latency streaming and barge-in handling | FastAPI, Twilio, Deepgram, Groq, Cartesia |
