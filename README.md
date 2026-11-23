@@ -63,11 +63,6 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya2OO4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2OO4&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya2OO4&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&timezone=Asia%2FKolkata&v=2" alt="Contribution streak" />
 </p>
 
